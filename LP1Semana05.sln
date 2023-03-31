@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValuesAndReferences", "ValuesAndReferences\ValuesAndReferences.csproj", "{ADDAA0D5-8C42-451F-9048-7FE1B8A8C7F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tempo", "Tempo\Tempo.csproj", "{D86B809D-A3DB-4A68-BF92-089760A7B6AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{ADDAA0D5-8C42-451F-9048-7FE1B8A8C7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADDAA0D5-8C42-451F-9048-7FE1B8A8C7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADDAA0D5-8C42-451F-9048-7FE1B8A8C7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86B809D-A3DB-4A68-BF92-089760A7B6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86B809D-A3DB-4A68-BF92-089760A7B6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86B809D-A3DB-4A68-BF92-089760A7B6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86B809D-A3DB-4A68-BF92-089760A7B6AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
