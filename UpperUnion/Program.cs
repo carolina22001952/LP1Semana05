@@ -20,6 +20,7 @@ namespace UpperUnion
                     args[i] = args[i].ToUpper();
                 }
 
+                
                 Array.Sort(args);
 
                 StringBuilder final = new StringBuilder();
